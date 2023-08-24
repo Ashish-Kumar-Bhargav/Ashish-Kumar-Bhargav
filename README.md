@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashish-Kumar-Bhargav/Ashish-Kumar-Bhargav/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ashish Kumar Bhargav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
